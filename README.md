@@ -1,1 +1,1 @@
-# sizeof-operators-in-c-
+# sizeof-operators-in-c++
